@@ -1,0 +1,6 @@
+* text=auto eol=lf whitespace=tab-in-indent,trailing-space,tabwidth=4
+
+# Binary files (to be untouched)
+*.png binary
+*.jpg binary
+*.jpeg binary
